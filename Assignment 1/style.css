@@ -1,7 +1,8 @@
+
 body {
     background-image: url("images/home_background.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%; 
     margin: auto;
     max-width: 1100px;
     font-family: "Lexend Deca", sans-serif;
@@ -36,9 +37,11 @@ body {
     font-style: normal;
     padding: 8% 0% 0% 3%;
 
-
   }
-  
+
+
+
+
   nav {
     font-size: large;
     margin-bottom: 40px;
@@ -100,8 +103,8 @@ h2{
     font-weight: 400;
     font-style: normal;
     text-align: center;
-    font-size: 3rem;
-    padding: 8% 0% 0% 0%;
+    font-size: 3.1rem;
+    padding: 28% 0% 0% 0%;
 
 }
 
@@ -423,10 +426,10 @@ padding: 10% 0% 10% 0%;
 }
 
 video.full{
-  padding-top: -10%;
-  padding-left: 0.6%;
-  justify-content: center;
+  width: 100%;
   max-width: 1100px;
+  justify-content: center;
+  padding-left: 0.6%;
 }
 
 
